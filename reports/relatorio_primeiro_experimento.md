@@ -14,19 +14,19 @@ resolução de problemas, trabalho em equipe e organização.
 ## Resultados do processamento
 
 - Respostas processadas: 9
-- Respostas avaliadas com sucesso: 7
-- Respostas não avaliadas: 2
-- Erro médio absoluto inicial: 1.14
-- Diferença média inicial: -1.14
+- Respostas avaliadas com sucesso: 9
+- Respostas não avaliadas: 0
+- Erro médio absoluto inicial: 1.00
+- Diferença média inicial: -0.80
 
 ## Comparação com a avaliação de referência
 
-A comparação foi feita usando as 7 respostas que possuíam
+A comparação foi feita usando as 9 respostas que possuíam
 avaliação da IA e avaliação de referência.
 
-- Correlação de Spearman: 0.99
-- Erro médio absoluto entre IA e referência: 1.03
-- Diferença média entre IA e referência: -1.03
+- Correlação de Spearman: 0.96
+- Erro médio absoluto entre IA e referência: 0.91
+- Diferença média entre IA e referência: -0.91
 
 A correlação de Spearman foi utilizada porque as notas estão em uma escala ordinal
 de 1 a 5. Ela indica se a IA tende a ordenar as respostas de forma semelhante à
@@ -45,7 +45,7 @@ análise exploratória.
 - O dataset é pequeno e sintético.
 - A avaliação de referência foi criada para este experimento e não representa um consenso amplo de avaliadores.
 - Apenas um modelo foi utilizado.
-- A amostra possui somente 7 respostas comparáveis.
+- A amostra possui somente 9 respostas comparáveis.
 - Os resultados não devem ser usados para decisões reais de contratação.
 - A IA pode ser influenciada pelo prompt, pelo modelo e pelo formato da resposta.
 
