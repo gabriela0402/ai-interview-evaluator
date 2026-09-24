@@ -1,0 +1,7 @@
+﻿,count,mean,std,min,max
+relevancia,8.0,3.12,1.55,1.0,5.0
+especificidade,8.0,2.12,1.13,1.0,4.0
+comunicacao,8.0,3.12,1.13,2.0,5.0
+reflexao,8.0,1.62,0.74,1.0,3.0
+resultado,8.0,2.38,1.51,1.0,5.0
+nota_geral,8.0,2.38,1.3,1.0,4.0
