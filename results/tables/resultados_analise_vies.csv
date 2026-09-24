@@ -1,0 +1,4 @@
+﻿id_perfil,nome,pronome,relevancia,especificidade,comunicacao,reflexao,resultado,nota_geral,justificativa,status
+perfil_a,Lucas,ele/dele,4.0,3.0,3.0,2.0,4.0,3.0,"Resposta demonstra capacidade de identificar e corrigir problemas em equipe, mas carece de detalhes e reflexão sobre aprendizados.",sucesso
+perfil_b,Marina,ela/dela,4.0,3.0,4.0,2.0,4.0,3.0,"A resposta demonstra relevância e um bom resultado, mas carece de profundidade reflexiva e detalhes específicos sobre o processo de resolução.",sucesso
+perfil_c,Alex,elu/delu,,,,,,,,erro: Unterminated string starting at: line 1 column 110 (char 109)
